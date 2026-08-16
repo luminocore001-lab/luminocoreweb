@@ -1,33 +1,3 @@
-# LUMINOCORE
-
-Premium, cinematic website for **LUMINOCORE** — a creative technology studio founded by **Gokulakrishnan**.
-
-Built with Next.js 14 (App Router), TypeScript, Tailwind CSS, and Framer Motion.
-
-## Getting Started (Visual Studio Code)
-
-1. Unzip this project and open the folder in VS Code.
-2. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-3. Run the dev server:
-
-   ```bash
-   npm run dev
-   ```
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-## Build for production
-
-```bash
-npm run build
-npm run start
-```
-
 ## Project structure
 
 ```
