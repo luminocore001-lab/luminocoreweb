@@ -1,0 +1,13 @@
+{
+  "name": "luminocore-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Luminocore premium animated agency website with email and WhatsApp enquiries",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.10.1"
+  }
+}
